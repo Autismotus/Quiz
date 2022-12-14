@@ -1,0 +1,265 @@
+{
+    "questions":[{
+        "questionText": "What is the land in the first Dark souls called?",
+        "options": [{
+            "text": "Lodran",
+            "correct": true
+        },
+        {
+            "text": "Lotric"
+        },
+        {
+            "text": "Londor"
+        },
+        {
+            "text": "Drangleic"
+        }
+    ],
+    "explanation": "It's called Lodran, Lotric and Londor are different places and eras."
+},
+{
+    "questionText": "Who of these is NOT a knight of Gwyn",
+    "options": [{
+        "text": "Artorius the abysswalker"
+    },
+    {
+        "text": "Hawkeye Gough"
+    },
+    {
+        "text": "Smough the executioner",
+        "correct": true
+    },
+    {
+        "text": "Lord's blade Ciaran"
+    }
+],
+"explanation": "Despite protecting Anor Londo with Ornstein, he was infact not a Knight of Gwyn"
+},
+{
+    "questionText": "Who betrayed the ancient dragons?",
+    "options": [{
+        "text": "The everlasting dragon"
+    },
+    {
+        "text": "Seath the scaleless",
+        "correct": true
+    },
+    {
+        "text": "Lord Gwyn"
+    },
+    {
+        "text": "Kingseeker Frampt"
+    }
+],
+"explanation": "Seath betrayed the ancient by reveiling their weakness to lightning"
+},
+{
+    "questionText": "From where did the Abyss originate?",
+    "options": [{
+        "text": "New Londo Ruins"
+    },
+    {
+        "text": "Oolacile",
+        "correct": true
+    },
+    {
+        "text": "Carthus"
+    },
+    {
+        "text": "Lost Izilith"
+    }
+],
+"explanation": "It was in Oolacile the Abyss was formed by the father of the Abyss, Manus"
+},
+{
+    "questionText": "Gravelord Nito, Gwyn Lord of light and the Witch of Izalith are three lords with a lord soul, Who is the fourth?",
+    "options": [{
+        "text": "The furtive pygmy",
+        "correct": true
+    },
+    {
+        "text": "Darkstalker Kaathe"
+        
+    },
+    {
+        "text": "Velka Godess of Sin"
+    },
+    {
+        "text": "Seath the scaleless"
+    }
+],
+"explanation": "It was the the furtive pygmy, so easily forgotten who was given the Dark soul"
+},
+{
+    "questionText": "Who of these is a Lord of Cinder",
+    "options": [{
+        "text": "Nameless king"
+    },
+    {
+        "text": "Pontiff Sulyvahn"
+    },
+    {
+        "text": "Ludleth of Courland",
+        "correct": true
+    },
+    {
+        "text": "Oceiros the consumed king"
+    }
+],
+"explanation": "Ludleth became a Lord of Cinder on his own volition and answered the call when the fire needed to be linked once more."
+},
+
+{
+    "questionText": "Who of these knights of Catarina helped the ashen one to kill Yhorm the Giant?",
+    "options": [{
+        "text": "Siegmeyer of Catarina"
+    },
+    {
+        "text": "Sieglinde of Catarina"
+    },
+    {
+        "text": "Siegward of Catarina",
+        "correct": true
+    },
+    {
+        "text": "Siegurd of Catarina"
+    }
+],
+"explanation": "Siegmeyer and Sieglinde help you in the first Dark souls"
+},
+{
+    "questionText": "From who does the Abyss watchers take their inspiration from?",
+    "options": [{
+        "text": "Artorius the abysswalker",
+        "correct": true
+    },
+    {
+        "text": "Manus father of the abyss"
+    },
+    {
+        "text": "The Darkwraiths"
+    },
+    {
+        "text": "Darkstalker Kaathe"
+    }
+]
+},
+{
+    "questionText": "Which of these dragons is the last living of the Ancient dragon?",
+    "options": [{
+        "text": "Black dragon Kalameet"
+    },
+    {
+        "text":"Darkeater Midir",
+        "correct": true
+    },
+    {
+        "text": "Sinh, the Slumbering Dragon"
+    },
+    {
+        "text": "Seath the scaleless"
+    }
+],
+"explanation": "Midir manage to survive until the end of the world, hidden under the Ringed city fighting the Abyss"
+},
+{
+    "questionText": "What city was built on the ruins of Anor Londo?",
+    "options": [{
+        "text": "Ithryll of the Borial valley",
+        "correct": true
+    },
+    {
+        "text":"New Londo"
+    },
+    {
+        "text": "Drangleic"
+    },
+    {
+        "text": "Lothric Castle"
+    }
+]
+},
+{
+    "questionText": "What painting do you visit in Dark souls 3?",
+    "options": [{
+        "text": "Painted world of Ariamis"
+    },
+    {
+        "text":"Painted world of Ariandel",
+        "correct": true
+    },
+    {
+        "text": "Painting of the forlorn"
+    },
+    {
+        "text": "Painting of Secrets"
+    }
+]
+},
+{
+    "questionText": "Why did Yhorm the Giant decide not to link the flame after his resurrection?",
+    "options": [{
+        "text": "The profaned flame corrupted Yhorm"
+        
+    },
+    {
+        "text":"He felt betrayed by the fire after it destroyed his people after linking the flame",
+        "correct": true
+    },
+    {
+        "text": "He lost an important person to him and abandoned his duty"
+    },
+    {
+        "text": "Pontiff Sulyvahn convinced Yhorm to abandon his duty to link the flame"
+    }]
+},
+{
+    "questionText": "Which character from the original Dark souls is still alive in Dark souls 3?",
+    "options": [{
+        "text": "Dark sun Gwyndolin"
+    },
+    {
+        "text":"Patches",
+        "correct": true
+    },
+    {
+        "text": "Dragonslayer Ornstein"
+    },
+    {
+        "text": "Andre of Astora"
+    }]
+},
+{
+    "questionText": "Who is the child of Seath the scaleless?",
+    "options": [{
+        "text": "Crossbreed Priscilla",
+        "correct": true
+    },
+    {
+        "text":"Oceiros the consumed king"
+    },
+    {
+        "text": "Chaos Witch Quelaag"
+    },
+    {
+        "text": "The fair Lady"
+    }]
+},
+{
+    "questionText": "Why did the ashen ones rise? ",
+    "options": [{
+        "text": "To free the Ithryll valley from Pontiff Sylavahns reign"
+    },
+    {
+        "text":"To kill all the gods"
+    },
+    {
+        "text": "To rekindle the flame"
+    },
+    {
+        "text": "To return the lords of cinder to their thrones",
+        "correct": true
+    }]
+}
+]
+}
